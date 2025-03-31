@@ -29,11 +29,3 @@ This is a simple To-Do List application developed for Android using Java and SQL
 ![Edit Task](app/edit_tasks.png)
 ## Contact Information
 
-- **Developer**: Shiv Prakash Verma
-- **Email**: shivprakashlps@gmail.com
-- **College**: IIT Ropar
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
