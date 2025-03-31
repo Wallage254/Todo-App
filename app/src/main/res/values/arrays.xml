@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priorities">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="reminders">
+        <item>No reminder</item>
+        <item>15 minutes before</item>
+        <item>1 hour before</item>
+        <item>1 day before</item>
+        <item>2 days before</item>
+    </string-array>
+</resources> 
