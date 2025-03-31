@@ -28,4 +28,5 @@ This is a simple To-Do List application developed for Android using Java and SQL
 ![Add List](app/add_tasks.png)
 ![Edit Task](app/edit_tasks.png)
 ## Contact Information
-
+youngwallage@gmail.com
+@peter nduchi
